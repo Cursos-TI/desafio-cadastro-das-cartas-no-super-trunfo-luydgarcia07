@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//FINALIZADO
 int main() {
     char estado01[50], estado02[50];
     char cidadeA01[50], cidadeB01[50];
